@@ -1,9 +1,9 @@
 package midterm;
 
-public class palindrome_sumooy {
+public class palindrome_micabalo {
    
     public static void main(String[] args) {
-        String name = "JETHRO";
+        String name = "JODDI";
         
         // Using StringBuilder to reverse the string
         String reversed = new StringBuilder(name).reverse().toString();
